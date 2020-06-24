@@ -9,7 +9,8 @@
 
 ## Getting Started
 
-
+ [![NODE JS](https://img.shields.io/badge/Node-JS-teal.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)
+ 
 
 ![3](https://user-images.githubusercontent.com/56346262/85222393-74c48780-b36f-11ea-8046-a0e68d740606.png)
 
