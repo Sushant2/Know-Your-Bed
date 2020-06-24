@@ -1,17 +1,19 @@
 # Know-Your-Bed  
-#   :man_technologist: :man_health_worker:
-*A Hackathon Project created by twobits under the HACKJAIPUR.*
 
-## -------------------------------------------------------------
+#### A Covid-19 Web App Project Build Under **HackJaipur** Hackathon Created By **team -** `twobits`
 
-## This is Project Home Page consist the **Login,Signup** etc.
-![1](https://user-images.githubusercontent.com/56346262/85222295-efd96e00-b36e-11ea-8da6-061c5f3b36b8.png)
 
-## -------------------------------------------------------------
+![Main Page](https://user-images.githubusercontent.com/56346262/85222295-efd96e00-b36e-11ea-8da6-061c5f3b36b8.png)
 
-## This is second Page  Auth2.0 Signup page.
-###  *You signup with help of enter the entries and also with the help of Google.*
+> `Website Will Update Soon :)`
+
+## Getting Started
+
+
+
 ![3](https://user-images.githubusercontent.com/56346262/85222393-74c48780-b36f-11ea-8046-a0e68d740606.png)
+
+
 
 ## --------------------------------------------------------------
 
