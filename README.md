@@ -5,8 +5,6 @@
 
 ![Main Page](https://user-images.githubusercontent.com/56346262/85222295-efd96e00-b36e-11ea-8da6-061c5f3b36b8.png)
 
-> `Website Will Update Soon :)`
-
 ## Getting Started
 
  [![NODE JS](https://img.shields.io/badge/Node-JS-teal.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)
